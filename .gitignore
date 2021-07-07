@@ -1,0 +1,11 @@
+# OS X
+.DS_Store
+.cache
+build/
+demo/dist/
+
+# Bundler
+.bundle
+
+.idea/*
+node_modules/*

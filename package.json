@@ -1,0 +1,15 @@
+{
+  "name": "@masongzhi/api-queue",
+  "version": "1.0.0",
+  "main": "index.min.js",
+  "repository": "git@github.com:masongzhi/api-queue.git",
+  "author": "masongzhi <511071161@qq.com>",
+  "license": "MIT",
+  "scripts": {
+    "build": "webpack"
+  },
+  "devDependencies": {
+    "webpack": "^5.43.0",
+    "webpack-cli": "^4.7.2"
+  }
+}
